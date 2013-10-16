@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Code\TouchController.js">
+    <Files>
+      <File FileName="Assets\Code\TouchController.js" Line="101" Column="6" />
+      <File FileName="Assets\Code\PlayerAnimate.js" Line="9" Column="21" />
+      <File FileName="Assets\Code\AnimatedTexture.js" Line="16" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
